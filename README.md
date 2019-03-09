@@ -1,6 +1,6 @@
-# AlphiTV
-
-### **Live Streaming TV 
+### [Alphi Tv
+](https://chrisjeffries24.github.io/AlphiTV/index.html)
+**Live Streaming TV 
 From Around the World**
 
 ![Alphitvscreenshot](https://user-images.githubusercontent.com/6659864/54073291-afdb9e00-4285-11e9-8ce1-68ac3fc7944a.png)
